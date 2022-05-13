@@ -1,4 +1,3 @@
-# Patrick Dewey - CMDA2006 - Homework 2
 twosamplet.test <- function(x, y, conf.level = 0.95, tail = "both", test.type = "welch"){
     # input flag options
     # conf.level
