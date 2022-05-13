@@ -1,7 +1,3 @@
-# Patrick Dewey
-#
-# mywilcox.test
-
 # TODO:
 # tie cases for single sample
 # hypothesis test - Use mu to check?
