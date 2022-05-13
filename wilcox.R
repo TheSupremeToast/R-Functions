@@ -1,4 +1,4 @@
-# Patrick Dewey - CMDA2006 - Homework 3
+# Patrick Dewey
 #
 # mywilcox.test
 
